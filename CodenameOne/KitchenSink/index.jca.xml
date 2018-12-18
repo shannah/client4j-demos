@@ -15,4 +15,13 @@ Version 0.9
     ]]></changes>
     
     <dependency url="https://github.com/shannah/jclient-libs/raw/master/CodenameOne/latest/JavaSE.jar" jarName="lib/JavaSE.jar"/>
+    <permission class="java.util.logging.LoggingPermission" permission="control"/>
+    <permission class="java.util.PropertyPermission" permission="*" action="read,write"/>
+    <permission class="java.lang.RuntimePermission" permission="getProtectionDomain"/>
+    <permission class="java.lang.RuntimePermission" permission="getenv.CN1_RETINA_SCALE"/>
+    <permission class="java.lang.RuntimePermission" permission="preferences"/>
+    <permission class="java.lang.RuntimePermission" permission="setContextClassLoader"/>
+    <permission class="java.lang.RuntimePermission" permission="shutdownHooks"/>
+    <permission class="java.lang.RuntimePermission" permission="setFactory"/>
+    <permission class="java.net.SocketPermission" permission="www.codenameone.com:443" action="connect,resolve"/>
 </app>
