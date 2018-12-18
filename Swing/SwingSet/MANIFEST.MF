@@ -1,40 +1,11 @@
 Manifest-Version: 1.0
-Ant-Version: Apache Ant 1.10.1
-Created-By: Prasanth Pasala, The Pangburn Group.
-
-Name: com/nqadmin/swingSet/SSCheckBox.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/SSSlider.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/SSImage.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/SSLabel.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/SSComboBox.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/SSTextArea.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/SSDataNavigator.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/SSTextField.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/datasources/SSConnection.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/datasources/SSJdbcRowSetImpl.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/SSDBComboBox.class
-Java-Bean: True
-
-Name: com/nqadmin/swingSet/SSDataGrid.class
-Java-Bean: True
+Implementation-Title: Java Runtime Environment
+Implementation-Version: 1.8.0_131
+Specification-Vendor: Oracle Corporation
+Specification-Title: Java Platform API Specification
+Created-By: 1.7.0_07 (Oracle Corporation)
+Specification-Version: 1.8
+Implementation-Vendor: Oracle Corporation
+SplashScreen-Image: resources/images/splash.png
+Main-Class: SwingSet2
 
