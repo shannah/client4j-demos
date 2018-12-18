@@ -1,0 +1,3 @@
+permission java.util.logging.LoggingPermission "control";
+permission java.util.PropertyPermission "*", "read,write";
+permission java.lang.RuntimePermission "getProtectionDomain";
