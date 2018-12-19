@@ -14,4 +14,11 @@ Version 0.9
     ]]></changes>
     <jre url="https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.1%2B13/OpenJDK11U-jdk_x64_mac_hotspot_11.0.1_13.tar.gz"/>
     
+
+    <permission name="java.lang.RuntimePermission" target="accessClassInPackage.*"/>
+    <permission name="java.lang.RuntimePermission" target="accessClassInPackage.sun.util.locale.provider"/>
+    <permission name="java.lang.RuntimePermission" target="modifyThreadGroup"/>
+    <permission name="java.awt.AWTPermission" target="accessClipboard"/>
+    <permission name="java.awt.AWTPermission" target="showWindowWithoutWarningBanner"/>
+    <permission name="java.awt.AWTPermission" target="setWindowAlwaysOnTop"/>
 </app>
