@@ -12,5 +12,6 @@ Version 1.0
 Version 0.9
  - Beta release
     ]]></changes>
+    <jre url="https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.1%2B13/OpenJDK11U-jdk_x64_mac_hotspot_11.0.1_13.tar.gz"/>
     
 </app>
