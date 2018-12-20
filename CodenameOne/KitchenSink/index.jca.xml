@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<app name="Kitchen Sink" version="1.0" vendor="Codename One" url="KitchenSink.jar" numScreenshots="3">
+<app title="Kitchen Sink" version="1.0" vendor="Codename One" url="KitchenSink.jar" numScreenshots="3">
     <description><![CDATA[ 
 The Kitchen Sink demo is the first Codename One demo ever made. It recently went thru a complete rewrite to modernize it and improve it's UX/UI and functionality.
 The demo displays icons/cards with various categories to show off various features of Codename One such as layouts, theming, animations/effects etc. Notice that the demo adapts itself to the form factor and acts differently when running on a Tablet than it would on a phone.

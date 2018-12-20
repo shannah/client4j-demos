@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<app name="SwingSet" version="2.1.0" vendor="Oracle" url="swingset.jar" numScreenshots="0">
+<app title="SwingSet" version="2.1.0" vendor="Oracle" url="swingset.jar" numScreenshots="0">
     <description><![CDATA[ 
     SwingSet is an open source Java toolkit containing data-aware replacements for many of the standard Java Swing components.
     ]]></description>
