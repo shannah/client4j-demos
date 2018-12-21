@@ -13,7 +13,7 @@ Version 1.0
 Version 0.9
  - Beta release
     ]]></changes>
-    
+    <link title="Codename One Website" url="https://www.codenameone.com"/>
     <dependency url="https://github.com/shannah/jclient-libs/raw/master/CodenameOne/latest/JavaSE.jar" jarName="lib/JavaSE.jar"/>
     <permission name="java.util.logging.LoggingPermission" target="control"/>
     <permission name="java.util.PropertyPermission" target="*" action="read,write"/>
