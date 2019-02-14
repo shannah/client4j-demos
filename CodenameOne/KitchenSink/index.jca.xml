@@ -24,6 +24,6 @@ Version 0.9
   <permission name="java.lang.RuntimePermission" target="getenv.CN1_RETINA_SCALE"/>
   <permission name="java.lang.RuntimePermission" target="queuePrintJob"/>
   <permission action="write,delete" name="java.io.FilePermission" target="${jclient.musicFolder}/-"/>
-  <permission name="javax.sound.sampled.AudioPermission " target="play,record"/>
+  <permission name="javax.sound.sampled.AudioPermission" target="play,record"/>
   <link title="Codename One Website" url="https://www.codenameone.com"/>
 </app>
