@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<app title="Ensemble8" url="Ensemble8.jar">
+    <jre version="~&gt; 11"/>
+    <dependency commonName="javafx" version="~&gt; 11"/>
+
+    <permission action="read,write,delete" name="java.io.FilePermission" target="${jclient.user.home}/Library/Application Support/ensemble.EnsembleApp/-" />
+    <permission action="read,write" name="java.util.PropertyPermission" target="*"/>
+    <permission action="*:*" target="http:*" name="java.net.URLPermission" />
+    <permission action="*:*" target="https:*" name="java.net.URLPermission" />
+</app>
