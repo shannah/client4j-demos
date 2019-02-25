@@ -1,10 +1,9 @@
-<?xml version="1.0"?>
-<app title="SwingSet" version="2.1.0" vendor="Oracle" url="swingset.jar" numScreenshots="0">
-    <description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<app numScreenshots="0" title="SwingSet" updates="Auto" url="https://github.com/shannah/jclient-demos/raw/master/Swing/SwingSet/swingset.jar" vendor="Oracle" version="2.1.0">
+  <description><![CDATA[ 
     SwingSet is an open source Java toolkit containing data-aware replacements for many of the standard Java Swing components.
     ]]></description>
-    
-    <changes><![CDATA[
+  <changes><![CDATA[
 Version 1.0
  - Initial release
  - Better graphics
@@ -12,13 +11,11 @@ Version 1.0
 Version 0.9
  - Beta release
     ]]></changes>
-    <jre version="~&gt; 11"/>
-    
-
-    <permission name="java.lang.RuntimePermission" target="accessClassInPackage.*"/>
-    <permission name="java.lang.RuntimePermission" target="accessClassInPackage.sun.util.locale.provider"/>
-    <permission name="java.lang.RuntimePermission" target="modifyThreadGroup"/>
-    <permission name="java.awt.AWTPermission" target="accessClipboard"/>
-    <permission name="java.awt.AWTPermission" target="showWindowWithoutWarningBanner"/>
-    <permission name="java.awt.AWTPermission" target="setWindowAlwaysOnTop"/>
+  <jre/>
+  <permission name="java.lang.RuntimePermission" target="accessClassInPackage.*"/>
+  <permission name="java.lang.RuntimePermission" target="accessClassInPackage.sun.util.locale.provider"/>
+  <permission name="java.lang.RuntimePermission" target="modifyThreadGroup"/>
+  <permission name="java.awt.AWTPermission" target="accessClipboard"/>
+  <permission name="java.awt.AWTPermission" target="showWindowWithoutWarningBanner"/>
+  <permission name="java.awt.AWTPermission" target="setWindowAlwaysOnTop"/>
 </app>

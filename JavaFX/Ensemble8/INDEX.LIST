@@ -1,4 +1,10 @@
 MANIFEST.MF
 Ensemble8.jar
+dist/mac/Ensemble8.app/Contents/app.xml
+dist/mac/Ensemble8.app/Contents/MacOS/JClientLauncher
+dist/mac/Ensemble8.app/Contents/Info.plist
+dist/mac/Ensemble8.app/Contents/PkgInfo
+dist/windows/app.xml
+dist/windows/Ensemble8.exe
 index.jca.xml
 INDEX.LIST
