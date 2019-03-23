@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<app numScreenshots="0" title="SwingSet" updates="Auto" url="https://github.com/shannah/jclient-demos/raw/master/Swing/SwingSet/swingset.jar" vendor="Oracle" version="2.1.0">
+<app numScreenshots="0" title="SwingSet" updates="Auto" url="https://github.com/shannah/client4j-demos/raw/master/Swing/SwingSet/swingset.jar" vendor="Oracle" version="2.1.0">
   <description><![CDATA[ 
     SwingSet is an open source Java toolkit containing data-aware replacements for many of the standard Java Swing components.
     ]]></description>
