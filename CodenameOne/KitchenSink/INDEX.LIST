@@ -1,7 +1,7 @@
 MANIFEST.MF
 icon.png
 KitchenSink.properties
-index.jca.xml
+index.c4j.xml
 lib/KitchenSink-impl.jar
 lib/KitchenSink-resources.jar
 screenshot1.png
