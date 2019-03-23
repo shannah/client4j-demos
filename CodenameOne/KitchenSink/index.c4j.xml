@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<app numScreenshots="0" title="Kitchen Sink" updates="Auto" url="https://github.com/shannah/jclient-demos/raw/master/CodenameOne/KitchenSink/KitchenSink.jar" vendor="Codename One" version="1.0">
+<app numScreenshots="0" title="Kitchen Sink" updates="Auto" url="https://github.com/shannah/client4j-demos/raw/master/CodenameOne/KitchenSink/KitchenSink.jar" vendor="Codename One" version="1.0">
   <description><![CDATA[The Kitchen Sink demo is the first Codename One demo ever made. It recently went thru a complete rewrite to modernize it and improve it's UX/UI and functionality.
 The demo displays icons/cards with various categories to show off various features of Codename One such as layouts, theming, animations/effects etc. Notice that the demo adapts itself to the form factor and acts differently when running on a Tablet than it would on a phone.]]></description>
   <changes><![CDATA[Version 1.0
@@ -8,7 +8,7 @@ The demo displays icons/cards with various categories to show off various featur
  
 Version 0.9
  - Beta release]]></changes>
-  <dependency jarName="lib/JavaSE.jar" trusted="false" url="https://github.com/shannah/jclient-libs/raw/master/CodenameOne/latest/JavaSE.jar"/>
+  <dependency jarName="lib/JavaSE.jar" trusted="false" url="https://github.com/shannah/client4j-libs/raw/master/CodenameOne/latest/JavaSE.jar"/>
   <permission name="java.lang.RuntimePermission" target="shutdownHooks"/>
   <permission action="connect,resolve" name="java.net.SocketPermission" target="www.codenameone.com:443"/>
   <permission name="java.lang.RuntimePermission" target="preferences"/>
@@ -17,13 +17,13 @@ Version 0.9
   <permission name="java.lang.RuntimePermission" target="setContextClassLoader"/>
   <permission name="java.lang.RuntimePermission" target="setFactory"/>
   <permission action="read,write" name="java.util.PropertyPermission" target="*"/>
-  <permission action="read,readLink" name="java.io.FilePermission" target="${jclient.musicFolder}/-"/>
-  <permission action="read,readLink" name="java.io.FilePermission" target="${jclient.picturesFolder}/-"/>
+  <permission action="read,readLink" name="java.io.FilePermission" target="${client4j.musicFolder}/-"/>
+  <permission action="read,readLink" name="java.io.FilePermission" target="${client4j.picturesFolder}/-"/>
   <permission name="java.util.logging.LoggingPermission" target="control"/>
-  <permission action="write,delete" name="java.io.FilePermission" target="${jclient.picturesFolder}/-"/>
+  <permission action="write,delete" name="java.io.FilePermission" target="${client4j.picturesFolder}/-"/>
   <permission name="java.lang.RuntimePermission" target="getenv.CN1_RETINA_SCALE"/>
   <permission name="java.lang.RuntimePermission" target="queuePrintJob"/>
-  <permission action="write,delete" name="java.io.FilePermission" target="${jclient.musicFolder}/-"/>
+  <permission action="write,delete" name="java.io.FilePermission" target="${client4j.musicFolder}/-"/>
   <permission name="javax.sound.sampled.AudioPermission" target="play,record"/>
   <link title="Codename One Website" url="https://www.codenameone.com"/>
 </app>
