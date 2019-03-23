@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<app numScreenshots="0" title="Ensemble8" updates="Auto" url="https://github.com/shannah/jclient-demos/raw/master/JavaFX/Ensemble8/Ensemble8.jar" vendor="Oracle" version="1.0.3">
+<app numScreenshots="0" title="Ensemble8" updates="Auto" url="https://github.com/shannah/client4j-demos/raw/master/JavaFX/Ensemble8/Ensemble8.jar" vendor="Oracle" version="1.0.3">
   <description><![CDATA[Ensemble provides a gallery of over 100 sample applications that use a wide range of JavaFX features, such as graphics, UI controls, animation, charts, media and WebView. Source code for each sample and links to API documentation are also provided. Ensemble will provide developers with an interactive reference tool for what they can build with JavaFX.]]></description>
   <dependency commonName="javafx" trusted="false" version="~&gt; 11"/>
   <jre version="~&gt; 11"/>
-  <permission action="read,write,delete" name="java.io.FilePermission" target="${jclient.user.home}/Library/Application Support/ensemble.EnsembleApp/-"/>
+  <permission action="read,write,delete" name="java.io.FilePermission" target="${client4j.user.home}/Library/Application Support/ensemble.EnsembleApp/-"/>
   <permission action="read,write" name="java.util.PropertyPermission" target="*"/>
   <permission action="*:*" name="java.net.URLPermission" target="http:*"/>
   <permission action="*:*" name="java.net.URLPermission" target="https:*"/>
