@@ -6,5 +6,5 @@ dist/mac/Ensemble8.app/Contents/Info.plist
 dist/mac/Ensemble8.app/Contents/PkgInfo
 dist/windows/app.xml
 dist/windows/Ensemble8.exe
-index.jca.xml
+index.c4j.xml
 INDEX.LIST
