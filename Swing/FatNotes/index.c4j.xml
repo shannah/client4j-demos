@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<app numScreenshots="0" title="FatNotes" updates="Auto" url="https://github.com/shannah/client4j-demos/raw/master/Swing/FatNotes/FatNotes.jar" vendor="Web Lite Solutions Corp" version="1.0">
+  <description><![CDATA[ 
+      Take notes, and store files directly inside the notes.
+    ]]></description>
+  <changes><![CDATA[
+Version 1.0
+ - Initial release
+ - Better graphics
+ 
+Version 0.9
+ - Beta release
+    ]]></changes>
+  <jre/>
+  <permission name="java.security.AllPermission" />
+  
+</app>
